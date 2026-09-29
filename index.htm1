@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кафе Вкусно</title>
 
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #fff8f0;
+            color: #333;
+            text-align: center;
+        }
+
+        header {
+            background: #6b3e26;
+            color: white;
+            padding: 50px 20px;
+        }
+
+        h1 {
+            font-size: 40px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #e49b45;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            text-decoration: none;
+            margin-top: 15px;
+        }
+
+        section {
+            padding: 40px 20px;
+        }
+
+        .dish {
+            background: white;
+            margin: 15px auto;
+            padding: 20px;
+            border-radius: 15px;
+            max-width: 400px;
+        }
+
+        footer {
+            background: #6b3e26;
+            color: white;
+            padding: 25px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>☕ Кафе Вкусно</h1>
+    <p>Свежий кофе, десерты и уютная атмосфера</p>
+    <a href="#menu" class="button">Посмотреть меню</a>
+</header>
+
+<section id="menu">
+    <h2>🍽️ Наше меню</h2>
+
+    <div class="dish">
+        <h3>Капучино</h3>
+        <p>Классический кофе с молочной пенкой</p>
+        <strong>€3.50</strong>
+    </div>
+
+    <div class="dish">
+        <h3>Чизкейк</h3>
+        <p>Нежный домашний чизкейк</p>
+        <strong>€4.50</strong>
+    </div>
+
+    <div class="dish">
+        <h3>Круассан</h3>
+        <p>Свежий французский круассан
+        <strong>€2.80
+        
+    </div>
+</section>
+
+<section>
+ </h2> город Псков
+    </p> Улица Ленина иагананица дом 1
+    <p>Пн–Вс: 08:00–22:00
+</section>
+
+<footer>
+    <p>📞 +31 6 12345678
+    <p>© 2026 Кафе Вкусно
+
+</footer>
+
+</body>
+</html>
